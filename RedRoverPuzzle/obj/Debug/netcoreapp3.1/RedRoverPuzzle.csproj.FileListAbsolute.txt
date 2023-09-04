@@ -1,0 +1,12 @@
+/Users/kristispicer/Projects/RedRoverPuzzle/RedRoverPuzzle/bin/Debug/netcoreapp3.1/RedRoverPuzzle.deps.json
+/Users/kristispicer/Projects/RedRoverPuzzle/RedRoverPuzzle/bin/Debug/netcoreapp3.1/RedRoverPuzzle.runtimeconfig.json
+/Users/kristispicer/Projects/RedRoverPuzzle/RedRoverPuzzle/bin/Debug/netcoreapp3.1/RedRoverPuzzle.runtimeconfig.dev.json
+/Users/kristispicer/Projects/RedRoverPuzzle/RedRoverPuzzle/bin/Debug/netcoreapp3.1/RedRoverPuzzle.dll
+/Users/kristispicer/Projects/RedRoverPuzzle/RedRoverPuzzle/bin/Debug/netcoreapp3.1/RedRoverPuzzle.pdb
+/Users/kristispicer/Projects/RedRoverPuzzle/RedRoverPuzzle/obj/Debug/netcoreapp3.1/RedRoverPuzzle.csprojAssemblyReference.cache
+/Users/kristispicer/Projects/RedRoverPuzzle/RedRoverPuzzle/obj/Debug/netcoreapp3.1/RedRoverPuzzle.AssemblyInfoInputs.cache
+/Users/kristispicer/Projects/RedRoverPuzzle/RedRoverPuzzle/obj/Debug/netcoreapp3.1/RedRoverPuzzle.AssemblyInfo.cs
+/Users/kristispicer/Projects/RedRoverPuzzle/RedRoverPuzzle/obj/Debug/netcoreapp3.1/RedRoverPuzzle.csproj.CoreCompileInputs.cache
+/Users/kristispicer/Projects/RedRoverPuzzle/RedRoverPuzzle/obj/Debug/netcoreapp3.1/RedRoverPuzzle.dll
+/Users/kristispicer/Projects/RedRoverPuzzle/RedRoverPuzzle/obj/Debug/netcoreapp3.1/RedRoverPuzzle.pdb
+/Users/kristispicer/Projects/RedRoverPuzzle/RedRoverPuzzle/obj/Debug/netcoreapp3.1/RedRoverPuzzle.genruntimeconfig.cache
